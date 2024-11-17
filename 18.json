@@ -10,6 +10,95 @@
 "sites":[
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 
+{
+            "key": "小苹果",
+            "name": "🍎主力源",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://m35.grelighting.cn/html/107.jar;md5;1522fb7f6ed2116a3da54bb1c8e5b441"
+        },
+        {
+            "key": "t4佬",
+            "name": "🍀┃豆瓣精选",
+            "type": 1,
+            "api": "https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+        {
+            "key": "360_spider",
+            "name": "🥎360影视官方",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
+        {
+            "key": "drpy_js_酷云七七1",
+            "name": "🍎备份源一",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "🍎备份源二",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
+            "key": "快看",
+            "name": "🍎备份源三",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_YQKAPP",
+            "name": "🍎备份源四",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "csp_AppTT",
+            "name": "🍎备份源五",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080dy3.com"
+        },
+        {
+            "key": "csp_XBPQ_饭团",
+            "name": "🍎备份源六",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://m35.grelighting.cn/html/box/json/饭团HD.json"
+        },
+
+
 {"key":"9206_森林资源","name":"🏆🔞森林资源🈲","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"色情采集之王備份","name":"🔞色情采杂之王🈲","type":3,"api":"./js/nmAN.js","searchable":1,"quickSearch":1,"filterable":0,"order_num":1,"ext":"./js/采集之王[合].js?type=url&params=./js/采集[密]静态.json"},
