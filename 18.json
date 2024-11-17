@@ -57,6 +57,16 @@
       ]
     },
 
+      {
+      "key": "csp_xpath_大师兄",
+      "name": "大师兄(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/dashixong.json"
+    },
 
 {"key":"9206_森林资源","name":"🏆🔞森林资源🈲","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
