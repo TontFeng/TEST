@@ -1,6 +1,6 @@
 {
 
-"spider":"./am.jar",
+"spider":"./fm.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
@@ -8,6 +8,7 @@
 {"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
 ],
 "sites":[
+{"key":"MissAV","name":"🔥MissAV1無碼ijk","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"}
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"色情采集之王備份","name":"🔞色情采杂之王🈲","type":3,"api":"./js/nmAN.js","searchable":1,"quickSearch":1,"filterable":0,"order_num":1,"ext":"./js/采集之王[合].js?type=url&params=./js/采集[密]静态.json"},
