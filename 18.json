@@ -1,6 +1,6 @@
 {
 
-"spider":"./fm.jar",
+"spider":"./am.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 
 "lives":[
@@ -9,7 +9,6 @@
 ],
 "sites":[
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"}
-
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"色情采集之王備份","name":"🔞色情采杂之王🈲","type":3,"api":"./js/nmAN.js","searchable":1,"quickSearch":1,"filterable":0,"order_num":1,"ext":"./js/采集之王[合].js?type=url&params=./js/采集[密]静态.json"},
 {"key":"麻豆","name":"🔞麻豆","type":1,"api":"https://www.md91.cc/api.php/provide/vod/"},
@@ -43,6 +42,7 @@
 {"key":"9206_fhapi9.com","name":"🔞番号资源🈲","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"*辣椒资源","name":"🔞辣椒潮吹🈲","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
 {"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
+
 ],
     "lives": [
         {
