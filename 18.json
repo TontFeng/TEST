@@ -8,96 +8,9 @@
 {"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
 ]，
 "sites":[
-{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 
-{
-      "key": "csp_douban",
-      "name": "🌕┃豆瓣┃推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "jar": "./lib/fty.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "苹果",
-      "name": "🏆🍎┃小苹果┃IJK",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "./lib/fty.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_xpath_大师兄",
-      "name": "🌅大师兄(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/dashixong.json"
-    },
-      {
-      "key": "csp_xpath_海兔",
-      "name": "🌅海兔",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/haitu.json"
-    },
-    {
-      "key": "csp_xpath_飞兔",
-      "name": "🏆🐰飞兔",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/feitu.json"
-    },
-    {
-      "key": "csp_xpath_飞兔成人",
-      "name": "🏆🔞🐰飞兔成人🈲",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./ext/feitucr.json"
-    },  
-
-     {
-      "key": "量子资源",
-      "name": "🥑量子资源",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "伦理片"
-      ]
-    },
-
+      
+{"key": "csp_xpath_飞兔成人","name": "🏆🔞🐰飞兔成人🈲","type": 3,"api": "csp_XPathFilter"，"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ext/feitucr.json"},  
 {"key":"9206_森林资源","name":"🏆🔞森林资源🈲","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "drpy_xvideos","name": "🔞xvideos","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/XVIDEOS.js","playerType": "1","searchable": 1,"quickSearch": 1,"changeable": 1,"style": {"type": "rect","ratio": 1.485}},
 {"key":"色情采集之王備份","name":"🔞色情采杂之王🈲","type":3,"api":"./js/nmAN.js","searchable":1,"quickSearch":1,"filterable":0,"order_num":1,"ext":"./js/采集之王[合].js?type=url&params=./js/采集[密]静态.json"},
@@ -105,7 +18,7 @@
 {"key":"奥斯卡资源","name":"🔞奥斯卡资源-解說","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9206_老色逼资源站","name":"🔞色逼资源站","type":1,"api":"https://apilsbzy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"av91麻豆","name":"🔞91麻豆🈲","type":1,"api":"https://91md.me/api.php/provide/vod/"},
-{"key":"av森林資源","name":"🔞森林資源🈲","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
+{"key":"av森林資源","name":"🔞森林資源2🈲","type":0,"api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml"},
 {"key":"av奧斯卡資源","name":"🔞奧斯卡資源","type":0,"api":"https://aosikazy.com/api.php/provide/vod/at/xml"},
 {"key":"av鯊魚資源","name":"🏆🔞鯊魚資源🈲","type":1,"api":"https://shayuapi.com/api.php/provide/vod/"},
 {"key":"av雞坤資源","name":"🔞雞坤資源🈲","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
@@ -130,7 +43,77 @@
 {"key":"*大地资源","name":"🔞大地女星","type":0,"api":"https://dadiapi.com/api.php/"},
 {"key":"9206_fhapi9.com","name":"🔞番号资源🈲","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"*辣椒资源","name":"🔞辣椒潮吹🈲","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
-{"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"}
+{"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
+{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
+
+      {
+      "key": "苹果",
+      "name": "🏆🍎┃小苹果┃IJK",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "jar": "./lib/fty.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_xpath_飞兔",
+      "name": "🏆🐰飞兔",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/feitu.json"
+    },
+    {
+      "key": "csp_xpath_大师兄",
+      "name": "🌅大师兄(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/dashixong.json"
+    },
+      {
+      "key": "csp_xpath_海兔",
+      "name": "🌅海兔",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/haitu.json"
+    },
+    {
+      "key": "量子资源",
+      "name": "🥑量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "伦理片"
+      ]
+    }
+
+
 ],
     "lives": [
         {
