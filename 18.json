@@ -6,10 +6,8 @@
 "lives":[
 {"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
-],
+]，
 "sites":[
-{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
-
 {
     "key": "csp_xpath_飞兔成人",
     "name": "🔥🔞🐰飞兔成人(特快）🈲",
@@ -37,7 +35,7 @@
 {"key":"av易看資源-倫理","name":"🔞易看資源-倫理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"乐播资源","name":"🔞乐播资源","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"av色南國資源","name":"🔞越南資源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"9206_apilj.com","name":"🔞成人01","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"9206_apilj.com","name":"🔞成人01","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/"，"searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_dadiapi.com","name":"🔞成人02","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_91md.me","name":"🔞成人03","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"9206_lbapiby.com","name":"🔞成人4","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
@@ -55,7 +53,7 @@
 {"key":"9206_fhapi9.com","name":"🔞番号资源🈲","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"*辣椒资源","name":"🔞辣椒潮吹🈲","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml"},
 {"key":"*鲨鱼资源","name":"🔞鲨鱼中長片🈲","type":0,"api":"https://shayuapi.com/api.php/provide/vod/at/xml"},
-
+{"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 {
     "key": "苹果",
     "name": "🔥🍎┃小苹果┃IJK（特快）",
