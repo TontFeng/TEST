@@ -22,7 +22,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎┃小苹果┃IJK",
+      "name": "🏆🍎┃小苹果┃IJK",
       "type": 3,
       "api": "csp_LiteApple",
       "jar": "./lib/fty.jar",
@@ -52,7 +52,7 @@
     },
     {
       "key": "csp_xpath_飞兔",
-      "name": "🐰飞兔",
+      "name": "🏆🐰飞兔",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -60,7 +60,17 @@
       "filterable": 1,
       "ext": "./ext/feitu.json"
     },
-      
+    {
+      "key": "csp_xpath_飞兔成人",
+      "name": "🏆🔞🐰飞兔成人🈲",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./ext/feitucr.json"
+    },  
+     
       {
       "key": "量子资源",
       "name": "🥑量子资源",
