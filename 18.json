@@ -6,7 +6,7 @@
 "lives":[
 {"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
-],
+]，
 "sites":[
 {"key": "csp_xpath_飞兔成人","name": "🏆🔞🐰飞兔成人🈲","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./ext/feitucr.json"},  
 {"key":"9206_森林资源","name":"🏆🔞森林资源🈲","type":1,"api":"https://senlinzy2.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
