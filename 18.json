@@ -6,7 +6,7 @@
 "lives":[
 {"name":"自選","type":0,"url":"https://raw.githubusercontent.com/sqspot/tac/main/live2.txt","ua": "okhttp/3.15","playerType": 1,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ads": ["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]},
 {"name":"安博","type":0,"url":"https://tang.hz.cz/zb/anbo?token=cb70f1ae","playerType":2}
-],
+]，
 "sites":[
 {"key":"ikanbot3","name":"爱看机器人3","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ikanbot3.js"},
 
@@ -32,7 +32,7 @@
     },
     {
       "key": "csp_xpath_大师兄",
-      "name": "🧡大师兄(XPF)",
+      "name": "🌅大师兄(XPF)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
       {
       "key": "csp_xpath_海兔",
-      "name": "🧡海兔",
+      "name": "🌅海兔",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -72,25 +72,6 @@
     },  
 
      {
-      "key": "(18+)环亚资源",
-      "name": "(18+不错)环亚资源",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-
-     {
-      "key": "*色猫资源",
-      "name": "*色猫资源",
-      "type": 1,
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-      
-      {
       "key": "量子资源",
       "name": "🥑量子资源",
       "type": 1,
