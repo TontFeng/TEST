@@ -14,10 +14,8 @@
 
 
 "sites":[
-{"key":"南瓜","name":"南瓜｜影视｜高清","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷看","name":"酷看｜影视｜蓝光","type":3,"api":"csp_Kukan","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"苹果｜影视｜蓝光","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"看球","name":"看球｜体育｜高清","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"}}
+{"key":"南瓜","name":"影视｜转行｜停播","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1}
+
 ],
 
 "parses":[
