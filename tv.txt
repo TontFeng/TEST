@@ -14,7 +14,7 @@
 
 
 "sites":[
-{"key":"南瓜","name":"影视｜转行｜停播","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1}
+{"key":"南瓜","name":"影站｜转行｜停播｜男送外卖｜女拍AV","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1}
 
 ],
 
